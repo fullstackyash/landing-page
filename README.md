@@ -1,2 +1,2 @@
 # landing-page
-ss
+An HTML Landing page with multiple components and responsive design
